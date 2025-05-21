@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an Undergraduate Dual-Degree Student at the University of Pennsylvania studying Statistics in The Wharton School and Mathematical-Economics in the College of Arts and Sciences.
+
 
 ## Research Interests
 
