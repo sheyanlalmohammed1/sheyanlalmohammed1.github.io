@@ -3,7 +3,8 @@ main:
   - title: Bayesian and Dynamic Bayesian Networks for Credit Risk Modeling in Buy Now, Pay Later
     authors: <strong>Sheyan Lalmohammed</strong>
     conference_short: BN-DBN BNPL
-    conference: Final Thesis - Wharton Research Scholars <strong>(MICCAI)</strong>, 2023.
+    conference: Final Thesis - Wharton Research Scholars <strong>(WRS)</strong>, 2025.
+    abstract: This paper investigates the application of Bayesian Networks (BNs) and Dynamic Bayesian Networks (DBNs) on personalized credit risk assessment in the Buy Now, Pay Later (BNPL) industry. Using data from the Lending Club as a proxy for BNPL loans, the paper constructs multiple static and 5-period temporal network structures by discretizing borrower, loan, and macroeconomic characteristics. The use of score-based structure-learning methods allows for the identification of optimal network structures.  A cost-sensitive bootstrap evaluation assesses model performance across multiple classification metrics. Results show that naive BNs offer high interpretability, BNs with learned structures capture important inter-dependencies in the data, and DBNs provide improved temporal inference, all while remaining computationally efficient for real-time decision making for a BNPL context. The findings suggest that using these models can serve effectively as a secondary check for default prediction flexible to the needs of the lender, balancing risk and operational constraints in short-term lending.
     pdf: assets/files/Final Thesis - Sheyan Lalmohammed.pdf
     code: https://github.com/sheyanlalmohammed1
     page: https://repository.upenn.edu/exhibits/orgunit/wharton_research_scholars
