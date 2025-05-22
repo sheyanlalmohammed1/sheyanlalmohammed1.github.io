@@ -20,7 +20,6 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
-      <div class="abstract">{{link.abstract}}</div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -43,6 +42,7 @@
     </div>
   </div>
 </div>
+<div class="abstract">{{link.abstract}}</div>
 </li>
 <br>
 
