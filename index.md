@@ -9,8 +9,13 @@ I am an Undergraduate Dual-Degree Student at the University of Pennsylvania stud
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Applied Microeconomics:** welfare economics, labor market dynamics, policy evaluation, experimental economics, behavioral field experiments
+- **Industrial Organization:** bargaining & contract theory, market structure & competition policy, platform economics, oligopoly models, firm strategy & entry deterrence, vertical integration
+- **Monetary Economics:** central banking and policy design, inflation targeting and expectations, interest rate transmission mechanisms, digital currency impacts on monetary policy, macroprudential regulation, quantitative easing modeling
+- **Structural Microeconomics:** structural demand & supply estimation, auction and matching models, dynamic discrete choice, counterfactual policy simulation, program evaluation techniques
+- **Behavioral Decision-Making:** prospect theory & loss aversion, heuristics and biases, framing effects, emotional & social influences, choice architecture, neuroeconomic methods
+- **Financial Analytics & Risk Management:** portfolio theory & optimization, derivative and credit-risk modeling, Monte Carlo & stress-testing, systemic risk measurement, algorithmic trading strategies
+- **Digital Currencies & Blockchain Systems:** CBDC design and impact, tokenomics & stablecoins, smart-contract security, decentralized finance (DeFi) protocols, scalability & consensus mechanisms
 
 ## News
 
