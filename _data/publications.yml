@@ -10,7 +10,7 @@ main:
     page: https://repository.upenn.edu/exhibits/orgunit/wharton_research_scholars
     image: assets/img/BN-DBN BNPL.png
 
-  - title: Modeling Human Behavior Without Humans – Bringing Prospect Theory to Multi-Agent Reinforcement Learning
+  - title: "Modeling Human Behavior Without Humans – Bringing Prospect Theory to Multi-Agent Reinforcement Learning"
     authors: Sheyan Lalmohammed, Khush Gupta, ALok Shah, Keshav Ramji, Damek Davis* (*Advisor)
     conference_short: CPT-MARL
     conference: Numerical Optimization for Machine Learning and Data Science - Final Project <strong>(STAT 4830)</strong>, 2025.
@@ -20,14 +20,12 @@ main:
     page: https://github.com/sheyanlalmohammed1/STAT-4830-CPT-MARL-project
     image: assets/img/CPT-MARL.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: Sheyan Lalmohammed, Khush Gupta, ALok Shah, Keshav Ramji
-    conference_short: CPT-MARL
-    conference: Numerical Optimization for Machine Learning and Data Science - Final Project <strong>(STAT 4830)</strong>, 2025.
-    abstract: We apply CPT-MADDPG, a novel extension of the Multi-Agent Deep Deterministic Policy Gradient algorithm that embeds full Cumulative Prospect Theory (CPT) value and probability-weighting transforms into both critic and actor updates. By replacing expected-return maximization with rank-dependent Choquet integrals over gains and losses, CPT-MADDPG endows agents with tunable risk profiles—ranging from exploratory, risk-seeking behaviors to conservative, loss-averse ones—without human intervention. We further propose two extensions- an observability adjustment, which aggregates cross-agent subjective utilities in the Bellman backup when agents share CPT parameters; and adaptive behavioral parameters, where CPT hyperparameters are learned online via a secondary loss. Across competitive pursuit (Simple Tag), cooperative coverage (Simple Spread), and strategic bidding (first-price auctions), we show that risk-seeking parameterized CPT speeds early learning, extreme risk-averse parameterized CPT enforces prudence at a performance cost, transparent utility sharing preserves coordination under heterogeneity, and naive dynamic adaptation destabilizes convergence. In auction settings, learned CPT policies replicate the overbidding phenomenon documented by Josheski and Delcev, yielding short-term gains followed by long-term losses. Our work demonstrates a principled, differentiable framework for integrating human-like risk attitudes into multi-agent RL.
-    pdf: assets/files/CPT-MARL.pdf
-    code: https://github.com/sheyanlalmohammed1/STAT-4830-CPT-MARL-project
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: Causal Inference Under Interference
+    authors: Sheyan Lalmohammed, Abhinandan Dhalal* (*Mentor)
+    conference_short: CI-INTF
+    conference: Wharton Directed Reading Program <strong>(WDRP)</strong>, 2025.
+    abstract: In this presentation, we explore how causal studies often assume each person’s treatment only affects themselves, and what happens when that assumption fails and treatments spill over to others. We begin by reviewing the four core rules to conduct causal inference and show how real-world interactions break these rules. Next, we discuss simple modeling methods to correct for spillover bias and illustrate how social network features like homophily and contagion can make treatment effects appear stronger than they truly are. We then introduce intuitive graph‑based representations, such as temporal DAGs and chain graphs, and present a practical two‑step approach to using these representations that remains effective even when the full network connections aren’t known. Through this presentation, you’ll understand why accounting for interference in causal inference is crucial and have clear tools to adjust your analyses so you draw accurate conclusions.
+    pdf: assets/files/WDRP_Final_Presentation_Sheyan.pdf
+    page: https://sites.google.com/view/wharton-drp/previous/spring-2025?authuser=0
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: assets/img/CI-INTF.png
