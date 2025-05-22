@@ -29,3 +29,14 @@ main:
     page: https://sites.google.com/view/wharton-drp/previous/spring-2025?authuser=0
     notes: Oral Presentation
     image: assets/img/CI-INTF.png
+
+  - title: Welfare Modeling with AI as Economic Agents':' A Game-Theoretic and Behavioral Approach
+    authors: <strong>Sheyan Lalmohammed</strong>
+    conference_short: HUM-AI-WELF
+    conference: 2024
+    abstract: The integration of artificial intelligence (AI) into economic systems represents a transformative shift in decision-making frameworks, introducing novel dynamics between human and AI agents. This paper proposes a welfare model that incorporates both game-theoretic and behavioral dimensions to optimize interactions within human-AI ecosystems. By leveraging agent-based modeling (ABM), we simulate these interactions, accounting for trust evolution, perceived risks, and cognitive costs. The framework redefines welfare as the aggregate utility of interactions, adjusted for collaboration synergies, efficiency penalties, and equity considerations. Dynamic trust is modeled using Bayesian updating mechanisms, while synergies between agents are quantified through a collaboration index rooted in cooperative game theory. Results reveal that trust-building and skill development are pivotal to maximizing welfare, while sensitivity analyses highlight the trade-offs between AI complexity, equity, and efficiency. This research provides actionable insights for policymakers and system designers, emphasizing the importance of equitable AI adoption and fostering sustainable human-AI collaborations.
+    pdf: https://arxiv.org/pdf/2501.15317
+    code: https://github.com/sheyanlalmohammed1
+    page: https://arxiv.org/abs/2501.15317
+    image: assets/img/HUM-AI-WELF.png
+  
