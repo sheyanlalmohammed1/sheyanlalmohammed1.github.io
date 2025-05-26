@@ -39,4 +39,12 @@ main:
     code: https://github.com/sheyanlalmohammed1
     page: https://arxiv.org/abs/2501.15317
     image: assets/img/HUM-AI-WELF.png
+
+  - title: The Complex Framework to a Successful Central Bank Digital Currency
+    authors: <strong>Sheyan Lalmohammed</strong>
+    conference_short: HUEC
+    conference: Harvard Undergraduate Economics Association - International Economics Essay Competition (Top 20 Placement), 2022
+    abstract: My submission to the Harvard University International Economics Essay Contest for the following prompt where it placed within the top 20 of all entries worldwide: “The rise of central bank digital currencies (CBDCs), in addition to existing forms of decentralized cryptocurrencies, could eventually shape the way global finance is conducted through technology. This spells significant economic and political repercussions, especially as non-US countries such as China implement CBDCs to varying extents. In light of these developments, how should the Federal Reserve, European Central Bank, or other institutions and governments proceed with the development of CBDCs in their respective economies?”
+    pdf: assets/files/CBDC_HUEC.pdf
+    image: assets/img/CBDC_HEUC.png
   
