@@ -40,7 +40,7 @@ main:
     page: https://arxiv.org/abs/2501.15317
     image: assets/img/HUM-AI-WELF.png
 
-  - title: An In-Depth Analysis of the Implications of Implementing Digital Currencies within Developing Economies: Evaluating their Potential Contributions to Financial Inclusion, Economic Development, and Socioeconomic Mobility
+  - title: "An In-Depth Analysis of the Implications of Implementing Digital Currencies within Developing Economies: Evaluating their Potential Contributions to Financial Inclusion, Economic Development, and Socioeconomic Mobility"
     authors: <strong>Sheyan Lalmohammed</strong>
     conference_short: GRC-CRYPTO-DEV
     conference: Economic Development Series - Wharton Global Research and Consulting <strong>(GRC)</strong>, 2024.
