@@ -48,8 +48,11 @@ plugins:
 
 # The following files will be removed from the generated website.
 exclude:
+  - vendor
+  - vendor/bundle
   - Gemfile
   - Gemfile.lock
+  - node_modules
   - README.md
   - README_zh_Hans.md
   - README_zh_Hant.md
