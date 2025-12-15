@@ -13,7 +13,7 @@ main:
   - title: "Modeling Human Behavior Without Humans – Bringing Prospect Theory to Multi-Agent Reinforcement Learning"
     authors: Sheyan Lalmohammed, Khush Gupta, ALok Shah, Keshav Ramji, Damek Davis* (*Advisor)
     conference_short: CPT-MARL
-    conference: Numerical Optimization for Machine Learning and Data Science - Final Project <strong>(STAT 4830)</strong>, 2025.
+    conference: Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)
     abstract: We apply CPT-MADDPG, a novel extension of the Multi-Agent Deep Deterministic Policy Gradient algorithm that embeds full Cumulative Prospect Theory (CPT) value and probability-weighting transforms into both critic and actor updates. By replacing expected-return maximization with rank-dependent Choquet integrals over gains and losses, CPT-MADDPG endows agents with tunable risk profiles—ranging from exploratory, risk-seeking behaviors to conservative, loss-averse ones—without human intervention. We further propose two extensions- an observability adjustment, which aggregates cross-agent subjective utilities in the Bellman backup when agents share CPT parameters; and adaptive behavioral parameters, where CPT hyperparameters are learned online via a secondary loss. Across competitive pursuit (Simple Tag), cooperative coverage (Simple Spread), and strategic bidding (first-price auctions), we show that risk-seeking parameterized CPT speeds early learning, extreme risk-averse parameterized CPT enforces prudence at a performance cost, transparent utility sharing preserves coordination under heterogeneity, and naive dynamic adaptation destabilizes convergence. In auction settings, learned CPT policies replicate the overbidding phenomenon documented by Josheski and Delcev, yielding short-term gains followed by long-term losses. Our work demonstrates a principled, differentiable framework for integrating human-like risk attitudes into multi-agent RL.
     pdf: assets/files/CPT-MARL.pdf
     code: https://github.com/sheyanlalmohammed1/STAT-4830-CPT-MARL-project
@@ -43,23 +43,8 @@ main:
   - title: An In-Depth Analysis of the Implications of Implementing Digital Currencies within Developing Economies: Evaluating their Potential Contributions to Financial Inclusion, Economic Development, and Socioeconomic Mobility
     authors: <strong>Sheyan Lalmohammed</strong>
     conference_short: GRC-CRYPTO-DEV
-    conference: 2024
-    abstract: This paper examines the role of digital currencies in fostering financial inclusion and economic development,
-particularly in developing economies. Through an analysis of various digital currency forms—cryptocurrencies,
-Central Bank Digital Currencies (CBDCs), stablecoins, and utility tokens—the study evaluates their potential to
-streamline financial transactions, reduce costs, and offer secure financial services to marginalized communities.
-The integration of these technologies in developing regions is facilitated by the rapid digitization of financial
-services and the widespread adoption of mobile technology, making digital currencies a viable alternative to
-traditional financial systems. The paper highlights the economic benefits of digital currencies, such as enhanced
-business operations, international investment attraction, and stimulation of domestic economic growth across
-crucial sectors. Socially, digital currencies promise greater equity in financial access, potentially serving as
-catalysts for social and economic advancement, particularly for those in lower-income or marginalized regions.
-However, the success of digital currencies in achieving these outcomes is contingent upon robust infrastructure,
-effective regulatory frameworks, and strategic implementation to prevent exacerbating existing inequalities. The
-conclusion underscores a mixed potential impact on financial inclusion, indicating that while digital currencies
-offer significant opportunities for socio-economic development, their effectiveness is heavily dependent on
-addressing infrastructural and governance challenges. Future strategies should focus on ensuring that digital
-currency adoption aligns with broader economic and social goals to fully harness their transformative potential.
+    conference: Economic Development Series - Wharton Global Research and Consulting <strong>(GRC)</strong>, 2024.
+    abstract: This paper examines the role of digital currencies in fostering financial inclusion and economic development, particularly in developing economies. Through an analysis of various digital currency forms—cryptocurrencies, Central Bank Digital Currencies (CBDCs), stablecoins, and utility tokens—the study evaluates their potential to streamline financial transactions, reduce costs, and offer secure financial services to marginalized communities. The integration of these technologies in developing regions is facilitated by the rapid digitization of financial services and the widespread adoption of mobile technology, making digital currencies a viable alternative to traditional financial systems. The paper highlights the economic benefits of digital currencies, such as enhanced business operations, international investment attraction, and stimulation of domestic economic growth across crucial sectors. Socially, digital currencies promise greater equity in financial access, potentially serving as catalysts for social and economic advancement, particularly for those in lower-income or marginalized regions. However, the success of digital currencies in achieving these outcomes is contingent upon robust infrastructure, effective regulatory frameworks, and strategic implementation to prevent exacerbating existing inequalities. The conclusion underscores a mixed potential impact on financial inclusion, indicating that while digital currencies offer significant opportunities for socio-economic development, their effectiveness is heavily dependent on addressing infrastructural and governance challenges. Future strategies should focus on ensuring that digital currency adoption aligns with broader economic and social goals to fully harness their transformative potential.
     pdf: assets/files/SheyanLalmohammed_FinalPaper_GRC.pdf
     image: assets/img/GRC.png
 
