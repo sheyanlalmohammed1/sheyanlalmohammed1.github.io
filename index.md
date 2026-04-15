@@ -9,13 +9,13 @@ I am an Undergraduate Dual-Degree Student at the University of Pennsylvania stud
 
 ## Research Interests
 
-- **Applied Microeconomics:** welfare economics, labor market dynamics, policy evaluation, experimental economics, behavioral field experiments
+- **Applied Microeconomics:** welfare economics, labor market dynamics, policy evaluation, experimental economics
 - **Industrial Organization:** bargaining & contract theory, market structure & competition policy, platform economics, oligopoly models, firm strategy & entry deterrence, vertical integration
-- **Monetary Economics:** central banking and policy design, inflation targeting and expectations, interest rate transmission mechanisms, digital currency impacts on monetary policy, macroprudential regulation, quantitative easing modeling
 - **Structural Microeconomics:** structural demand & supply estimation, auction and matching models, dynamic discrete choice, counterfactual policy simulation, program evaluation techniques
-- **Behavioral Decision-Making:** prospect theory & loss aversion, heuristics and biases, framing effects, emotional & social influences, choice architecture, neuroeconomic methods
-- **Financial Analytics & Risk Management:** portfolio theory & optimization, derivative and credit-risk modeling, Monte Carlo & stress-testing, systemic risk measurement, algorithmic trading strategies
+- **Behavioral Decision-Making:** prospect theory & loss aversion, heuristics and biases, framing effects, emotional & social influences, choice architecture
 - **Digital Currencies:** CBDC design and impact, tokenomics & stablecoins, smart-contract utilization in real-estate tokenization
+- **Structural Econometrics:** identification and partial identification, semiparametric and nonparametric estimation, dynamic panel and state-dependence models, inference for counterfactuals, simulation-based estimation of strategic models
+- **Microeconomic Theory:** game theory and mechanism design, information economics and signaling, repeated games and relational contracts, matching and market design, dynamic incentives and strategic interaction under uncertainty
 
 {% include_relative _includes/publications.md %}
 
