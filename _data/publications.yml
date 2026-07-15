@@ -5,9 +5,9 @@ main:
     conference_short: NFT-Enforcement
     conference: Economics Honors Thesis <strong>(WRS)</strong>, 2026.
     abstract: This paper studies how royalty enforcement policies adopted by NFT marketplaces shape platform competition, trader routing behavior, and creator revenues. Motivated by the recent divergence between marketplaces that impose mandatory royalties and those that offer optional or weak enforcement of royalties for creators, this paper develops a new three-period theoretical model with a single creator, a continuum of heterogeneous traders, and competing platforms which can choose their enforcement credibility. The model nests mandatory, optional, and zero-royalty regimes and incorporates switching costs away from a collections minting platform. Through several analytical cases, including monopoly, symmetric duopoly, trader information and motive differences, and differing regime standoffs, the paper shows how enforcement choices interact with routing incentives. In environments dominated by speculators or with low switching frictions, platforms face downward pressures to zero enforcement credibility. When collectors or positive switching costs are sufficiently important, interior non-zero enforcement equilibria or asymmetric outcomes are shown to exist. Using Ethereum NFT trade-level data from 2022-2024, the paper additionally constructs empirical measures of royalty enforcement credibility, effective trading costs, and switching frictions. Using an estimated structural model, trader cost-sensitivity, collector valuation of enforcement, share of speculators in trading population, and price-dependent switching costs are found. Using the structural model, the paper shows that under changes to optional and mandatory regime enforcement, strengthening or weakening optional royalty compliance, and reducing switching frictions, key equilibrium changes to market share emerge.
-    pdf:
-    code: https://github.com/sheyanlalmohammed1
-    page: https://github.com/sheyanlalmohammed1
+    pdf: assets/files/nft-royalties.pdf
+    code: https://github.com/sheyan-lalmohammed/replication_package_economics_of_nft_royalties
+    page: 
     image: assets/img/NFT-distribution.png
 
   - title: Bayesian and Dynamic Bayesian Networks for Credit Risk Modeling in Buy Now, Pay Later
@@ -16,7 +16,7 @@ main:
     conference: Final Thesis - Wharton Research Scholars <strong>(WRS)</strong>, 2025.
     abstract: This paper investigates the application of Bayesian Networks (BNs) and Dynamic Bayesian Networks (DBNs) on personalized credit risk assessment in the Buy Now, Pay Later (BNPL) industry. Using data from the Lending Club as a proxy for BNPL loans, the paper constructs multiple static and 5-period temporal network structures by discretizing borrower, loan, and macroeconomic characteristics. The use of score-based structure-learning methods allows for the identification of optimal network structures.  A cost-sensitive bootstrap evaluation assesses model performance across multiple classification metrics. Results show that naive BNs offer high interpretability, BNs with learned structures capture important inter-dependencies in the data, and DBNs provide improved temporal inference, all while remaining computationally efficient for real-time decision making for a BNPL context. The findings suggest that using these models can serve effectively as a secondary check for default prediction flexible to the needs of the lender, balancing risk and operational constraints in short-term lending.
     pdf: assets/files/Final Thesis - Sheyan Lalmohammed.pdf
-    code: https://github.com/sheyanlalmohammed1
+    code: https://github.com/sheyan-lalmohammed
     page: https://repository.upenn.edu/entities/publication/0c3277ec-3159-4a5d-826f-5cf7fef3d73c
     image: assets/img/BN-DBN BNPL.png
 
@@ -26,8 +26,8 @@ main:
     conference: MAS Workshop of the 42nd International Conference on Machine Learning (ICML 2025)
     abstract: We apply CPT-MADDPG, a novel extension of the Multi-Agent Deep Deterministic Policy Gradient algorithm that embeds full Cumulative Prospect Theory (CPT) value and probability-weighting transforms into both critic and actor updates. By replacing expected-return maximization with rank-dependent Choquet integrals over gains and losses, CPT-MADDPG endows agents with tunable risk profiles—ranging from exploratory, risk-seeking behaviors to conservative, loss-averse ones—without human intervention. We further propose two extensions- an observability adjustment, which aggregates cross-agent subjective utilities in the Bellman backup when agents share CPT parameters; and adaptive behavioral parameters, where CPT hyperparameters are learned online via a secondary loss. Across competitive pursuit (Simple Tag), cooperative coverage (Simple Spread), and strategic bidding (first-price auctions), we show that risk-seeking parameterized CPT speeds early learning, extreme risk-averse parameterized CPT enforces prudence at a performance cost, transparent utility sharing preserves coordination under heterogeneity, and naive dynamic adaptation destabilizes convergence. In auction settings, learned CPT policies replicate the overbidding phenomenon documented by Josheski and Delcev, yielding short-term gains followed by long-term losses. Our work demonstrates a principled, differentiable framework for integrating human-like risk attitudes into multi-agent RL.
     pdf: assets/files/CPT-MARL.pdf
-    code: https://github.com/sheyanlalmohammed1/STAT-4830-CPT-MARL-project
-    page: https://github.com/sheyanlalmohammed1/STAT-4830-CPT-MARL-project
+    code: https://github.com/sheyan-lalmohammed/STAT-4830-CPT-MARL-project
+    page: https://github.com/sheyan-lalmohammed/STAT-4830-CPT-MARL-project
     image: assets/img/CPT-MARL.png
 
   - title: Causal Inference Under Interference
@@ -46,7 +46,7 @@ main:
     conference: 2024
     abstract: The integration of artificial intelligence (AI) into economic systems represents a transformative shift in decision-making frameworks, introducing novel dynamics between human and AI agents. This paper proposes a welfare model that incorporates both game-theoretic and behavioral dimensions to optimize interactions within human-AI ecosystems. By leveraging agent-based modeling (ABM), we simulate these interactions, accounting for trust evolution, perceived risks, and cognitive costs. The framework redefines welfare as the aggregate utility of interactions, adjusted for collaboration synergies, efficiency penalties, and equity considerations. Dynamic trust is modeled using Bayesian updating mechanisms, while synergies between agents are quantified through a collaboration index rooted in cooperative game theory. Results reveal that trust-building and skill development are pivotal to maximizing welfare, while sensitivity analyses highlight the trade-offs between AI complexity, equity, and efficiency. This research provides actionable insights for policymakers and system designers, emphasizing the importance of equitable AI adoption and fostering sustainable human-AI collaborations.
     pdf: https://arxiv.org/pdf/2501.15317
-    code: https://github.com/sheyanlalmohammed1
+    code: https://github.com/sheyan-lalmohammed
     page: https://arxiv.org/abs/2501.15317
     image: assets/img/HUM-AI-WELF.png
 
